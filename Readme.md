@@ -207,3 +207,5 @@ Torna o botão transparente, com borda clara e texto branco.
     text-decoration: underline;
 }
 Centraliza e estiliza o texto do rodapé com o link “Cadastre-se”.
+-------------------------------------------------------------
+isso é uma alteração
